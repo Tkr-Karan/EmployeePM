@@ -1,0 +1,47 @@
+﻿@model EPM.Core.EmployeeManagement.EmployeeUsers
+
+
+    <style>
+        .login {
+            height: 80vh;
+        }
+
+        .login-heading {
+            font-weight: 300;
+        }
+
+        .btn-login {
+            font-size: 0.9rem;
+            letter-spacing: 0.05rem;
+            padding: 0.75rem 1rem;
+        }
+    </style>
+
+<h1> Create Employee</h1>
+
+<form asp-action="CreateEmployee" asp-controller="Employee">
+    <div class="form-floating mb-3">
+        <input type="hidden" asp-for="Id" />
+        <label asp-for="EmpName" for="floatingInput">Employee Name</label>
+        <input asp-for="EmpName" type="text" class="form-control" placeholder="Please enter your Employee name!!">
+        <span asp-validation-for="EmpName" class="text-danger"></span>
+    </div>
+
+    <div class="form-floating mb-3">
+        <label asp-for="Phone" for="floatingPassword">Phone</label>
+        <input asp-for="Phone" type="text" class="form-control" placeholder="Please Enter your Phone">
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+
+    <div class="form-floating mb-3">
+        <label asp-for="Email" for="floatingPassword">Email</label>
+        <input asp-for="Email" type="text" class="form-control" placeholder="Please enter your Email">
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="d-grid">
+        <button class="btn btn-lg btn-primary btn-login text-uppercase fw-bold mb-2" type="submit">Create Employee</button>
+       
+    </div>
+
+</form>

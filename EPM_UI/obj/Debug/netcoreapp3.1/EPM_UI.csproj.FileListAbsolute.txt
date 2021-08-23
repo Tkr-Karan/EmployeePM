@@ -1,0 +1,750 @@
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.exe
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.deps.json
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.runtimeconfig.json
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.runtimeconfig.dev.json
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.Views.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.Views.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Implementation.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Repository.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Implementation.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Repository.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Core.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.csproj.AssemblyReference.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.AssemblyInfoInputs.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.AssemblyInfo.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.csproj.CoreCompileInputs.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.MvcApplicationPartsAssemblyInfo.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.MvcApplicationPartsAssemblyInfo.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorAssemblyInfo.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorAssemblyInfo.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\staticwebassets\EPM_UI.StaticWebAssets.Manifest.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\staticwebassets\EPM_UI.StaticWebAssets.xml
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\EPM_UI.styles.css
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.TagHelpers.input.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.TagHelpers.output.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorCoreGenerate.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\AddProduct.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\CustomerRegister.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\EmployeeRegister.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\UserAuthenticate.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorTargetAssemblyInfo.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorTargetAssemblyInfo.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.Views.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.csproj.CopyComplete
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.genruntimeconfig.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Forms\CreateUser.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Forms\LoginUser.cshtml.g.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM_UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.exe
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.deps.json
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.runtimeconfig.json
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.runtimeconfig.dev.json
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.Views.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM_UI.Views.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Implementation.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Repository.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Implementation.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Repository.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\bin\Debug\netcoreapp3.1\EPM.Core.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.csproj.AssemblyReference.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.AssemblyInfoInputs.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.AssemblyInfo.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.csproj.CoreCompileInputs.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorAssemblyInfo.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorAssemblyInfo.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\staticwebassets\EPM_UI.StaticWebAssets.Manifest.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\staticwebassets\EPM_UI.StaticWebAssets.xml
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\EPM_UI.styles.css
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.TagHelpers.input.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.TagHelpers.output.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorCoreGenerate.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\AddProduct.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\CustomerRegister.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\EmployeeRegister.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Forms\CreateUser.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Forms\LoginUser.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\UserAuthenticate.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorTargetAssemblyInfo.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.RazorTargetAssemblyInfo.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.Views.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.csproj.CopyComplete
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\EPM_UI.genruntimeconfig.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\EmployeeForm\EmpForm.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\EmployeeForm\GetEmployee.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\CustomerForm\CustomerForm.cshtml.g.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM_UI\obj\Debug\netcoreapp3.1\Razor\Views\CustomerForm\GetCustomer.cshtml.g.cs

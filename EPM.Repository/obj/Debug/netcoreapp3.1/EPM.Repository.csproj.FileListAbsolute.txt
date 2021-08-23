@@ -1,0 +1,24 @@
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Repository.deps.json
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Repository.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Repository.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Core.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.csproj.AssemblyReference.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.AssemblyInfoInputs.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.AssemblyInfo.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.csproj.CoreCompileInputs.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.csproj.CopyComplete
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Repository.deps.json
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Repository.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Repository.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\bin\Debug\netcoreapp3.1\EPM.Core.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.csproj.AssemblyReference.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.AssemblyInfoInputs.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.AssemblyInfo.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.csproj.CoreCompileInputs.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.csproj.CopyComplete
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Repository\obj\Debug\netcoreapp3.1\EPM.Repository.pdb

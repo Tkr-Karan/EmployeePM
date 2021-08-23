@@ -1,0 +1,28 @@
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Implementation.deps.json
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Implementation.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Implementation.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Repository.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Repository.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Core.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.csproj.AssemblyReference.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.AssemblyInfoInputs.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.AssemblyInfo.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.csproj.CoreCompileInputs.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.csproj.CopyComplete
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Implementation.deps.json
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Implementation.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Implementation.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Repository.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Repository.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\bin\Debug\netcoreapp3.1\EPM.Core.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.csproj.AssemblyReference.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.AssemblyInfoInputs.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.AssemblyInfo.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.csproj.CopyComplete
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Implementation\obj\Debug\netcoreapp3.1\EPM.Implementation.pdb

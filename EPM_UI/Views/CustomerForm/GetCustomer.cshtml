@@ -1,0 +1,52 @@
+﻿@model IEnumerable<EPM.Core.CustomerManagement.CustomerUsers>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<table class="table">
+    <thead>
+        <tr>
+            <th> Customer Name </th>
+            <th> Customer Phone</th>
+            <th> Email Address</th>
+
+            <th> Action</th>
+        </tr>
+    </thead>
+
+    <tboody>
+        @foreach (var data in Model)
+        {
+            <tr>
+                <td>@data.CustName</td>
+                <td>@data.Phone</td>
+                <td>@data.Email</td>
+
+                <td>
+                    <button onclick="DeleteRecord(@data.Id)" class="btn btn-danger"> Delete </button>
+                </td>
+                <td>
+                    <a asp-action="Index" asp-controller="Customer" asp-route-id="@data.Id" class="btn btn-primary"> Edit </a>
+                </td>
+
+            </tr>
+        }
+    </tboody>
+
+</table>
+
+<script>
+    function DeleteRecord(id) {
+        if (confirm("Are you sure to delete this entry?")) {
+            $.get("/Customer/DeleteCustomer", { id: id }, function (response) {
+                if (response) {
+                    alert("Customer deleted Successfully!!!");
+                    location.reload();
+                }
+                else {
+                    alert("Unable to delete the Customer, Please contact admin.");
+                }
+            });
+        }
+    }
+</script>
