@@ -1,0 +1,18 @@
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Core\bin\Debug\netcoreapp3.1\EPM.Core.deps.json
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Core\bin\Debug\netcoreapp3.1\EPM.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Core\bin\Debug\netcoreapp3.1\EPM.Core.pdb
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.csproj.AssemblyReference.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.AssemblyInfoInputs.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.AssemblyInfo.cs
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.csproj.CoreCompileInputs.cache
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.dll
+E:\omnieTainee\EmployeePerformance\EPM_Project\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Core\bin\Debug\netcoreapp3.1\EPM.Core.deps.json
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Core\bin\Debug\netcoreapp3.1\EPM.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Core\bin\Debug\netcoreapp3.1\EPM.Core.pdb
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.csproj.AssemblyReference.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.AssemblyInfoInputs.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.AssemblyInfo.cs
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.csproj.CoreCompileInputs.cache
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.dll
+C:\Users\man mohan\Desktop\EmployeePM\EPM.Core\obj\Debug\netcoreapp3.1\EPM.Core.pdb
